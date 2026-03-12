@@ -1,4 +1,4 @@
-# Text-to-SQL AI Data Analyst (Next.js + FastAPI + Groq)
+# Text-to-SQL AI Data Analyst
 
 Ask questions in natural language and get answers by generating SQL against a local SQLite database.
 
