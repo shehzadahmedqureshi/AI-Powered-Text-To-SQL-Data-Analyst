@@ -71,6 +71,5 @@ Example questions you can ask:
 
 ## Notes
 
-- **Do not commit secrets**: `backend/.env` is ignored by `.gitignore`.
 - If Groq returns a “model decommissioned” error, set `GROQ_MODEL` to a supported model name.
 
